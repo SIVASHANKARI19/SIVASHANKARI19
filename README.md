@@ -28,24 +28,14 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=c,java,python,go" />
 </p>
 
-### Full Stack (MERN)
+### Full Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,redis" />
 </p>
 
 ### DSA & Problem Solving
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python" />
-</p>
-
-### ML, DS & DL
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
-</p>
-
-### LLM, GenAI & AI Agents
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=langchain,openai" />
+  <img src="https://skillicons.dev/icons?i=java,python,C,C++" />
 </p>
 
 ### Cloud & DevOps
@@ -55,7 +45,7 @@ Here are some ideas to get you started:
 
 ### IDE & Version Control
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,git,github,gitlab" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,git,github" />
 </p>
 
 ---
@@ -71,17 +61,17 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SIVASHANKARI19&show_icons=true&theme=dark" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIVASHANKARI19&theme=dark" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: *add link*
-- 🧩 LeetCode: *add link*
+- 💼 LinkedIn: https://www.linkedin.com/in/sivashankari-ravichandran-1ba4aa28b/
+- 🧩 LeetCode: https://leetcode.com/u/sivashankari19115/
 
 ---
