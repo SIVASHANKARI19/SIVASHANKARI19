@@ -79,8 +79,6 @@ Currently mastering <strong>Cloud Architecture</strong>, <strong>Infrastructure 
 
 ## 🧰 Tech Stack
 
-## 🧰 Tech Stack
-
 ---
 
 💻 **Programming Languages**
