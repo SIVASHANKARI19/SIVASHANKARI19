@@ -79,19 +79,49 @@ Currently mastering <strong>Cloud Architecture</strong>, <strong>Infrastructure 
 
 ## 🧰 Tech Stack
 
-**Cloud & DevOps**
+## 🧰 Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-**Frontend & Database**
+💻 **Programming Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,js" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
+
+🌐 **Frontend Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux" />
+</p>
+
+---
+
+⚙️ **Backend Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+🗄️ **Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+---
+
+☁️ **Cloud & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,nginx" />
+</p>
+
+---
+
+🔧 **Tools & Version Control**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter" />
+</p>
 
 ---
 
