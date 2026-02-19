@@ -1,77 +1,145 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SIVASHANKARI19/SIVASHANKARI19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Sivashankari
 
-Here are some ideas to get you started:
+### ☁️ Cloud & DevOps-Focused Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<h1 align="center">Hi 👋, I'm Sivashankari</h1>
-<h3 align="center">ECE Student | Aspiring Software Engineer</h3>
-
----
-
-## 🧠 My Skills
-
-### Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,go" />
+<p>
+Cloud-focused Software Engineer building scalable, automated, and production-ready systems.<br/>
+Currently mastering <strong>Cloud Architecture</strong>, <strong>Infrastructure Automation</strong>, and <strong>Production Deployment Workflows</strong>.
 </p>
 
-### Full Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,redis" />
-</p>
-
-### DSA & Problem Solving
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,C,C++" />
-</p>
-
-### Cloud & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,nginx,vercel,render" />
-</p>
-
-### IDE & Version Control
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,git,github" />
-</p>
+</div>
 
 ---
 
 ## 🚀 About Me
-- 🎓 ECE undergraduate passionate about **software & systems**
-- 💻 Strong focus on **DSA & problem-solving**
-- 🌐 Building **full-stack MERN applications**
-- ☁️ Exploring **Cloud & DevOps practices**
-- 🤖 Interested in **AI, ML & Generative AI**
+
+- ☁️ Hands-on with **AWS** (EC2, S3, IAM, CodePipeline, ASG, ELB)
+- 🔄 **CI/CD automation** using Jenkins & AWS DevOps services
+- 🐳 **Containerization** using Docker
+- 💻 Strong foundation in **React**, **Tailwind CSS**, **MySQL**
+- 🧠 Solid **DSA** & system-oriented thinking
+
+---
+
+## ☁️ Cloud & DevOps Projects
+
+### 🔹 CI/CD Auto Deployment Pipeline
+> `Jenkins` `EC2` `Tomcat` `IAM` `Git` `Linux`
+
+- Automated application deployments to AWS EC2-hosted Tomcat servers
+- Configured Git-triggered Jenkins build & deploy stages
+- Secured infrastructure using IAM role-based access control
+- Reduced manual deployment effort through CI/CD automation
+
+---
+
+### 🔹 AWS Native CI/CD Pipeline
+> `CodePipeline` `CodeBuild` `CodeDeploy` `EC2` `S3` `IAM`
+
+- Designed end-to-end AWS-managed CI/CD workflow
+- Automated source → build → deploy pipeline stages
+- Implemented secure IAM-based service integration
+- Improved deployment efficiency and reliability
+
+---
+
+### 🔹 Dockerized Application Deployment
+> `Docker` `Linux`
+
+- Built custom Docker images for application containerization
+- Ensured consistent runtime environments across systems
+- Improved portability and deployment readiness
+
+---
+
+### 🔹 Emtax — Tax Management Platform
+> `React.js` `MUI` `Zustand`
+
+- Developed responsive tax management platform
+- Implemented centralized state management with Zustand
+- Designed scalable and maintainable frontend architecture
+
+---
+
+## 🎯 Areas of Interest
+
+| Domain | Focus |
+|--------|-------|
+| ☁️ Cloud Infrastructure | AWS Architecture & Services |
+| 🔄 CI/CD | Deployment Automation & Pipelines |
+| 🐳 Containerization | Docker & Orchestration |
+| 🏗️ IaC | Infrastructure as Code |
+| 📦 Microservices | Distributed System Design |
+| ⚙️ Backend | Optimization & Scalability |
+| 🔐 Security | Cloud Security & IAM |
+
+---
+
+## 🧰 Tech Stack
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Frontend & Database**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🏆 Certification
+
+### 🎓 AWS Cloud Practitioner Essentials
+> Foundational training in AWS core services, security, pricing, and cloud architecture principles.
 
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SIVASHANKARI19&show_icons=true&theme=dark" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIVASHANKARI19&theme=dark" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIVASHANKARI19&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SIVASHANKARI19&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIVASHANKARI19&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/SIVASHANKARI19/SIVASHANKARI19/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🎓 Education
+
+**B.E. Electronics & Communication Engineering** <br>
+🏫 Bannari Amman Institute of Technology *(2023 – 2027)*<br>
+📈 CGPA: **8.63 / 10**
 
 ---
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/sivashankari-ravichandran-1ba4aa28b/
-- 🧩 LeetCode: https://leetcode.com/u/sivashankari19115/
 
----
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
