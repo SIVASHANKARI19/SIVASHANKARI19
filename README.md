@@ -104,7 +104,7 @@ Currently mastering <strong>Cloud Architecture</strong>, <strong>Infrastructure 
 
 🗄️ **Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ---
