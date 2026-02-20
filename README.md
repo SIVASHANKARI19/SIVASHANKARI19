@@ -83,14 +83,14 @@ Currently mastering <strong>Cloud Architecture</strong>, <strong>Infrastructure 
 
 💻 **Programming Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
 </p>
 
 ---
 
 🌐 **Frontend Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 </p>
 
 ---
@@ -111,14 +111,14 @@ Currently mastering <strong>Cloud Architecture</strong>, <strong>Infrastructure 
 
 ☁️ **Cloud & DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins" />
 </p>
 
 ---
 
 🔧 **Tools & Version Control**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
