@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Sivashankari
 
-### ☁️ Cloud & DevOps-Focused Software Engineer
+### 🚀 Full Stack Developer | Backend & Cloud-Focused Engineer
 
 <p>
-Cloud-focused Software Engineer building scalable, automated, and production-ready systems.<br/>
-Currently mastering <strong>Cloud Architecture</strong>, <strong>Infrastructure Automation</strong>, and <strong>Production Deployment Workflows</strong>.
+I build <strong>scalable backend systems</strong>, <strong>full-stack applications</strong>, and <strong>cloud-deployed platforms</strong>.<br/>
+Focused on <strong>system design</strong>, <strong>performance</strong>, and <strong>real-world problem solving</strong>.
 </p>
 
 </div>
@@ -15,118 +15,78 @@ Currently mastering <strong>Cloud Architecture</strong>, <strong>Infrastructure 
 
 ## 🚀 About Me
 
-- ☁️ Hands-on with **AWS** (EC2, S3, IAM, CodePipeline, ASG, ELB)
-- 🔄 **CI/CD automation** using Jenkins & AWS DevOps services
-- 🐳 **Containerization** using Docker
-- 💻 Strong foundation in **React**, **Tailwind CSS**, **MySQL**
-- 🧠 Solid **DSA** & system-oriented thinking
+- 💻 Strong in **React, Next.js, Node.js**
+- ⚙️ Backend-focused: **APIs, system design, scalability**
+- ☁️ Hands-on with **AWS (EC2, S3, IAM, CodePipeline)**
+- 🔄 Built **CI/CD pipelines** using Jenkins & AWS
+- 🐳 Experience in **Docker-based deployments**
+- 🧠 Strong **DSA + problem-solving mindset**
 
 ---
 
-## ☁️ Cloud & DevOps Projects
+## 🔥 Featured Projects
 
-### 🔹 CI/CD Auto Deployment Pipeline
-> `Jenkins` `EC2` `Tomcat` `IAM` `Git` `Linux`
+### 🔹 URL Shortener with Analytics
+`Node.js` `PostgreSQL` `Redis` `Prisma` `Docker`
 
-- Automated application deployments to AWS EC2-hosted Tomcat servers
-- Configured Git-triggered Jenkins build & deploy stages
-- Secured infrastructure using IAM role-based access control
-- Reduced manual deployment effort through CI/CD automation
-
----
-
-### 🔹 AWS Native CI/CD Pipeline
-> `CodePipeline` `CodeBuild` `CodeDeploy` `EC2` `S3` `IAM`
-
-- Designed end-to-end AWS-managed CI/CD workflow
-- Automated source → build → deploy pipeline stages
-- Implemented secure IAM-based service integration
-- Improved deployment efficiency and reliability
+- Built a scalable URL shortening system with real-time analytics
+- Implemented Redis caching to reduce database load and improve response time
+- Designed efficient short code generation and redirection system
+- Tracked clicks, device data, and timestamps for analytics
 
 ---
 
-### 🔹 Dockerized Application Deployment
-> `Docker` `Linux`
+### 🔹 Smart Grievance Redressal System (AI-Based)
+`React.js` `Node.js` `Flask` `Machine Learning`
 
-- Built custom Docker images for application containerization
-- Ensured consistent runtime environments across systems
-- Improved portability and deployment readiness
-
----
-
-### 🔹 Emtax — Tax Management Platform
-> `React.js` `MUI` `Zustand`
-
-- Developed responsive tax management platform
-- Implemented centralized state management with Zustand
-- Designed scalable and maintainable frontend architecture
+- Developed an AI-powered system to classify and prioritize complaints
+- Used TF-IDF + Naive Bayes for text classification
+- Built full-stack integration with real-time API communication
+- Automated complaint routing and priority scoring
 
 ---
 
-## 🎯 Areas of Interest
+### 🔹 Cloud-Based CI/CD Pipeline Automation
+`AWS` `Jenkins` `Docker` `Git`
 
-| Domain | Focus |
-|--------|-------|
-| ☁️ Cloud Infrastructure | AWS Architecture & Services |
-| 🔄 CI/CD | Deployment Automation & Pipelines |
-| 🐳 Containerization | Docker & Orchestration |
-| 🏗️ IaC | Infrastructure as Code |
-| 📦 Microservices | Distributed System Design |
-| ⚙️ Backend | Optimization & Scalability |
-| 🔐 Security | Cloud Security & IAM |
+- Built automated CI/CD pipelines using AWS CodePipeline and Jenkins
+- Deployed containerized applications to EC2 instances
+- Improved deployment reliability and reduced manual effort
 
 ---
 
 ## 🧰 Tech Stack
 
----
+### 💻 Languages
+`C` `Java` `JavaScript`
 
-💻 **Programming Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
-</p>
+### 🌐 Frontend
+`React.js` `Next.js` `Tailwind CSS`
 
----
+### ⚙️ Backend
+`Node.js` `Express.js` `REST APIs`
 
-🌐 **Frontend Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
-</p>
+### 🗄️ Databases
+`PostgreSQL` `MySQL` `MongoDB` `Redis`
 
----
-
-⚙️ **Backend Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+### ☁️ Cloud & DevOps
+`AWS` `Docker` `Kubernetes` `Jenkins`
 
 ---
 
-🗄️ **Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+## 🎯 Areas of Focus
+
+- Backend System Design
+- Scalable API Development
+- Cloud Deployment & Automation
+- Performance Optimization
+- Distributed Systems (Learning Phase)
 
 ---
 
-☁️ **Cloud & DevOps**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins" />
-</p>
+## 🏆 Certifications
 
----
-
-🔧 **Tools & Version Control**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 🏆 Certification
-
-### 🎓 AWS Cloud Practitioner Essentials
-> Foundational training in AWS core services, security, pricing, and cloud architecture principles.
+- 🎓 AWS Cloud Practitioner Essentials
 
 ---
 
@@ -141,14 +101,6 @@ Currently mastering <strong>Cloud Architecture</strong>, <strong>Infrastructure 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIVASHANKARI19&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 🎓 Education
-
-**B.E. Electronics & Communication Engineering** <br>
-🏫 Bannari Amman Institute of Technology *(2023 – 2027)*<br>
-📈 CGPA: **8.63 / 10**
 
 ---
 
