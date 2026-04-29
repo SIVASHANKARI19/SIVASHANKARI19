@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sivashankari
 
-### 🚀 Full Stack Developer | Backend & Cloud-Focused Engineer
+### 🚀 Full Stack Developer | Cloud-Focused Engineer
 
 <p>
 I build <strong>scalable backend systems</strong>, <strong>full-stack applications</strong>, and <strong>cloud-deployed platforms</strong>.<br/>
